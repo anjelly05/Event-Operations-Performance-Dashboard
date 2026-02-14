@@ -1,0 +1,41 @@
+﻿event_id,event_name,event_type,event_date,venue_type,weather_condition,expected_attendance,actual_attendance,budget_allocated,actual_spend,num_organisers,event_duration_hours,feedback_score
+E001,Freshmen Networking,Networking,8/15/2025,Indoor,Clear,120,135,3000,2800,12,3,4.2
+E002,Arts Camp,Camp,6/10/2025,Outdoor,Clear,280,260,9000,9800,28,10,4
+E003,Studio Performance Night,Performance,9/5/2025,Indoor,Rainy,180,200,5000,5200,18,4,4.5
+E004,Freshmen Networking Night,Networking,11/24/2025,Indoor,Clear,161,172,3003,3595.47,20,3,4
+E005,Alumni Networking Session,Networking,1/13/2025,Outdoor,Clear,155,133,2895,3388.32,18,4,4.1
+E006,Creative Writing Workshop,Workshop,3/13/2025,Indoor,Clear,64,63,1069,1016.24,6,5,3.8
+E007,Community Outreach Day,Outreach Events,1/17/2025,Indoor,Clear,99,106,2418,2585.67,15,4,4.3
+E008,Digital Art Workshop,Workshop,4/30/2025,Indoor,Clear,76,67,1275,1413.51,10,5,4.4
+E009,Industry Connections Mixer,Networking,4/23/2025,Outdoor,Rainy,153,133,4708,5215.89,11,3,3.3
+E010,Summer Arts Camp,Camp,3/23/2025,Outdoor,Rainy,297,309,11977,13426.87,28,10,4.2
+E011,Charity Fundraiser Event,Outreach Events,3/21/2025,Indoor,Rainy,89,80,4986,5696.27,14,3,3.1
+E012,Photography Basics Workshop,Workshop,2/17/2025,Outdoor,Clear,65,61,614,648.64,7,4,3.6
+E013,Music Production Workshop,Workshop,6/26/2025,Outdoor,Clear,66,57,1842,1718.04,10,5,3.8
+E014,Studio Performance Night,Performance,10/2/2025,Indoor,Rainy,111,114,5059,4728.51,16,3,4.5
+E015,Speed Networking Event,Networking,10/10/2025,Outdoor,Rainy,97,85,2192,2115.9,12,7,3.9
+E016,Leadership Development Camp,Camp,4/9/2025,Indoor,Clear,216,222,13668,12925.3,20,9,3.6
+E017,Dance Movement Workshop,Workshop,5/29/2025,Indoor,Clear,64,76,1196,1359.8,8,2,4.2
+E018,Pottery Making Workshop,Workshop,7/14/2025,Outdoor,Rainy,76,76,865,705.81,10,4,4.1
+E019,Graphic Design Workshop,Workshop,3/25/2025,Outdoor,Rainy,68,65,830,760.94,9,3,3
+E020,School Visit Outreach,Outreach Events,12/10/2025,Outdoor,Clear,142,160,5599,5770.76,13,7,4.4
+E021,Orientation Camp,Camp,11/22/2025,Indoor,Clear,220,219,7133,7156.33,24,9,4
+E022,Annual Showcase,Performance,8/25/2025,Outdoor,Rainy,150,151,4484,3729.66,18,8,4.2
+E023,Professional Development Night,Networking,12/19/2025,Indoor,Rainy,171,196,4661,5732.67,17,3,3.7
+E024,Career Fair Networking,Networking,4/28/2025,Indoor,Rainy,123,124,4410,4693.12,20,6,3.6
+E025,Public Engagement Fair,Outreach Events,5/18/2025,Indoor,Clear,84,58,2974,3411.42,18,7,4.4
+E026,Volunteer Appreciation Day,Outreach Events,6/11/2025,Indoor,Rainy,153,141,3937,3815.11,11,6,3.9
+E027,Cultural Performance Evening,Performance,11/26/2025,Outdoor,Clear,132,141,4758,4267.58,10,5,3.8
+E028,Public Speaking Workshop,Workshop,3/13/2025,Indoor,Rainy,36,32,1418,1540.94,8,5,4.4
+E029,Leadership Skills Workshop,Workshop,10/26/2025,Outdoor,Rainy,58,72,700,874.9,5,3,3.3
+E030,Talent Show Spectacular,Performance,3/12/2025,Outdoor,Clear,188,182,3971,4488.06,10,3,3.5
+E031,Team Building Workshop,Workshop,2/26/2025,Indoor,Clear,54,58,1431,1701.91,10,5,3
+E032,Community Service Project,Outreach Events,11/2/2025,Indoor,Rainy,171,155,2891,2913.89,18,6,3.8
+E033,Youth Mentorship Program,Outreach Events,11/2/2025,Outdoor,Rainy,86,86,5492,4440.46,18,7,3.7
+E034,Music Recital Night,Performance,1/6/2025,Indoor,Rainy,156,172,3653,4486.09,13,8,3.5
+E035,Dance Performance Show,Performance,6/24/2025,Indoor,Rainy,90,92,4141,4564.02,20,6,3.7
+E036,Meet & Greet Social,Networking,3/22/2025,Outdoor,Clear,130,135,3872,4647.84,11,8,4.1
+E037,Community Building Session,Networking,5/15/2025,Indoor,Clear,152,106,2873,2355.48,15,8,3.3
+E038,Cultural Exchange Event,Outreach Events,6/2/2025,Indoor,Clear,127,124,4225,3767.65,20,5,4.2
+E039,Team Building Retreat,Camp,3/24/2025,Indoor,Rainy,341,357,8200,10069.13,37,11,3.8
+E040,Skills Development Camp,Camp,1/10/2025,Indoor,Rainy,253,200,10325,8648.92,21,10,3.9
